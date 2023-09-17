@@ -230,13 +230,16 @@
     <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
         <div class="carousel-inner">
           <div class="carousel-item active">
-            <img src="c:\Users\marie\OneDrive\Pictures\caruselagrovoltaica3.png" class="d-block w-100" alt="...">
+            <img src="![carruselagrovoltaica1](https://github.com/marielheredia/ecoproyecto/assets/139135835/cec86dc8-2b8b-4f09-aee9-6f5747d9a085)
+" class="d-block w-100" alt="...">
           </div>
           <div class="carousel-item">
-            <img src="c:\Users\marie\OneDrive\Pictures\carruselagrovoltaica5.png" class="d-block w-100" alt="...">
+            <img src="![carruselagrovoltaica5](https://github.com/marielheredia/ecoproyecto/assets/139135835/68fcd960-f8dc-4c5f-8cbc-4a599f4c3485)
+" class="d-block w-100" alt="...">
           </div>
           <div class="carousel-item">
-            <img src="https://github.com/marielheredia/ecoproyecto/blob/main/carruselagrovoltaica1.png" class="d-block w-100" alt="...">
+            <img src="![caruselagrovoltaica3](https://github.com/marielheredia/ecoproyecto/assets/139135835/7d2a55c3-a4ae-4afd-ab45-e9a41a2dc6fd)
+" class="d-block w-100" alt="...">
           </div>
         </div>
         <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
