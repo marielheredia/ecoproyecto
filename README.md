@@ -34,7 +34,7 @@
                 </li>
 
                 <li class="nav-item">
-                  <a class="nav-link" href="microalgas.html"> Microalgas </a>
+                  <a class="nav-link" href="../microalgas.html"> Microalgas </a>
                 </li>
                 <li class="nav-item">
                   <a class="nav-link" href="./ecoturismo.html"> Eco Turismo </a>
