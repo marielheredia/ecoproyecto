@@ -28,20 +28,20 @@
             <div class="collapse navbar-collapse" id="navbarNav">
               <ul class="navbar-nav">
 
-
+  <li><a href="inicio.html">Inicio</a></li>
                 <li class="nav-item">
-                  <a class="nav-link" href="hidroponia.html"> Hidroponia </a>
+                  <a class="nav-link" href="./hidroponia.html"> Hidroponia </a>
                 </li>
 
                 <li class="nav-item">
-                  <a class="nav-link" href="microalgas.html"> Microalgas </a>
+                  <a class="nav-link" href="./microalgas.html"> Microalgas </a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="ecoturismo.html"> Eco Turismo </a>
+                  <a class="nav-link" href="./ecoturismo.html"> Eco Turismo </a>
                 </li>
 
                 <li class="nav-item">
-                  <a class="nav-link" href="contactos.html"> Contacto </a>
+                  <a class="nav-link" href="./contactos.html"> Contacto </a>
                 </li>  
                 <li class="nav-item">
                   <a class="nav-link" href="#"> Nosotras </a>
