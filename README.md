@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html lang="en">
 
 
@@ -8,26 +8,27 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         
         <title> AGROVOLTAICA </title>
-        <link rel="stylesheet" href="style.css">      
-         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384- 
-           1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
-        <link rel="stylesheet" href="https://github.com/marielheredia/ecoproyecto.git">
+         <link rel="stylesheet" href="style.css"/>       
+         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+        <link rel="stylesheet" href=https://github.com/marielheredia/tercerentrega.git">
 
     </head>
 
    
-<body>
-<header> <!--Navegador en Bootstrap-->
-    <nav class="navbar navbar-expand-lg bg-body-tertiary">
-      <div class="container-fluid">
-        <a class="navbar-brand" href="./ecoproyecto.html"> PROYECTO ECOLOGICO </a>
-        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="collapse navbar-collapse" id="navbarNav">
-          <ul class="navbar-nav">
 
-  
+    <body>
+
+      <header> <!--Navegador en Bootstrap-->
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+          <div class="container-fluid">
+            <a class="navbar-brand" href="./ecoproyecto.html"> PROYECTO ECOLOGICO </a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+              <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+              <ul class="navbar-nav">
+
+
                 <li class="nav-item">
                   <a class="nav-link" href="./hidroponia.html"> Hidroponia </a>
                 </li>
@@ -54,20 +55,20 @@
 <section class="padre-grid"> <!--Agrego el grid del principio-->
 
         <div class="box-zapallo">
-            <img class="zapallo-img" src="con plata de zapallo-01.png" alt="">
+            <img class="zapallo-img" src="c:\Users\marie\OneDrive\Desktop\con plata de zapallo-01.png" alt="">
          </div>
         <div class="box-sustentable">
-            <img class="sustentable-img" src="sustentable.jpg" alt="">
+            <img class="sustentable-img" src="c:\Users\marie\OneDrive\Desktop\sustentable.jpg" alt="">
           </div>
         <div class="box-tomato">
-            <img class="tomato-img" src="TOMATO.png" alt="">
+            <img class="tomato-img" src="c:\Users\marie\OneDrive\Desktop\TOMATO.png" alt="">
           </div>
         <div class="box-melon">
-            <img class="melon-img" src="LOGO ECORPOYECTO. tp 3-01.png" alt="">
+            <img class="melon-img" src="c:\Users\marie\OneDrive\Pictures\LOGO ECORPOYECTO. tp 3-01.png" alt="">
             
+</section>
 
-
-    
+    <br>
         
       <section>    
 
@@ -154,7 +155,7 @@
 
 
  <section class="contenedor-imagen" >
-          <img src= "agrosi2.png" alt="parrales">
+          <img src= "c:\Users\marie\OneDrive\Pictures\agrosi2.png" alt="parrales">
               
 </section>             
 
@@ -229,13 +230,13 @@
     <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
         <div class="carousel-inner">
           <div class="carousel-item active">
-            <img src="carruselagrovoltaica1.png" class="d-block w-100" alt="la chica">
+            <img src="c:\Users\marie\OneDrive\Pictures\caruselagrovoltaica3.png" class="d-block w-100" alt="...">
           </div>
           <div class="carousel-item">
-            <img src="carruselagrovoltaica5.png" class="d-block w-100" alt="con el hijo">
+            <img src="c:\Users\marie\OneDrive\Pictures\carruselagrovoltaica5.png" class="d-block w-100" alt="...">
           </div>
           <div class="carousel-item">
-            <img src="caruselagrovoltaica3.png" class="d-block w-100" alt="los sres">
+            <img src="c:\Users\marie\OneDrive\Pictures\carruselagrovoltaica1.png" class="d-block w-100" alt="...">
           </div>
         </div>
         <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
@@ -252,7 +253,7 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js" integrity="sha384-QJHtvGhmr9XOIpI6YVutG+2QOK9T+ZnN4kzFN1RtK3zEFEIsxhlmWl5/YESvpZ13" crossorigin="anonymous"></script>    
           
 
-      
+        </main>
 
 
     <main>
@@ -265,10 +266,10 @@
 
                   <h1> Lugares en donde ya se está incorporando:  </h1>
 
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/cG_pccEaaTQ"
+            <from width="560" height="315" src="https://www.youtube.com/embed/cG_pccEaaTQ"
              title="YouTube video player" frameborder="0" allow="accelerometer; autoplay;
               clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-               allowfullscreen></iframe>
+               allowfullscreen></from>
 
         </section>
 
@@ -316,7 +317,7 @@
    
    <script src="index.js"></script>
 
-
+ </body>
 
     <footer>
       
@@ -326,5 +327,4 @@
               
     </footer>
 
-
-
+</html>
