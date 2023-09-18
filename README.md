@@ -21,7 +21,7 @@
       <header> <!--Navegador en Bootstrap-->
         <nav class="navbar navbar-expand-lg bg-body-tertiary">
           <div class="container-fluid">
-            <a class="navbar-brand" href="./ecoproyecto.html"> PROYECTO ECOLOGICO </a>
+            <a class="navbar-brand" href="ecoproyecto.html"> PROYECTO ECOLOGICO </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
               <span class="navbar-toggler-icon"></span>
             </button>
@@ -55,13 +55,13 @@
 <section class="padre-grid"> <!--Agrego el grid del principio-->
 
         <div class="box-zapallo">
-            <img class="zapallo-img" src="c:\Users\marie\OneDrive\Desktop\con plata de zapallo-01.png" alt="">
+            <img class="zapallo-img" src="con plata de zapallo-01.png" alt="">
          </div>
         <div class="box-sustentable">
-            <img class="sustentable-img" src="c:\Users\marie\OneDrive\Desktop\sustentable.jpg" alt="">
+            <img class="sustentable-img" src="sustentable.jpg" alt="">
           </div>
         <div class="box-tomato">
-            <img class="tomato-img" src="c:\Users\marie\OneDrive\Desktop\TOMATO.png" alt="">
+            <img class="tomato-img" src="TOMATO.png" alt="">
           </div>
         <div class="box-melon">
             <img class="melon-img" src="c:\Users\marie\OneDrive\Pictures\LOGO ECORPOYECTO. tp 3-01.png" alt="">
@@ -155,7 +155,7 @@
 
 
  <section class="contenedor-imagen" >
-          <img src= "c:\Users\marie\OneDrive\Pictures\agrosi2.png" alt="parrales">
+          <img src= "agrosi2.png" alt="parrales">
               
 </section>             
 
@@ -230,13 +230,13 @@
     <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
         <div class="carousel-inner">
           <div class="carousel-item active">
-            <img src="c:\Users\marie\OneDrive\Pictures\caruselagrovoltaica3.png" class="d-block w-100" alt="...">
+            <img src="caruselagrovoltaica3.png" class="d-block w-100" alt="...">
           </div>
           <div class="carousel-item">
-            <img src="c:\Users\marie\OneDrive\Pictures\carruselagrovoltaica5.png" class="d-block w-100" alt="...">
+            <img src="carruselagrovoltaica5.png" class="d-block w-100" alt="...">
           </div>
           <div class="carousel-item">
-            <img src="c:\Users\marie\OneDrive\Pictures\carruselagrovoltaica1.png" class="d-block w-100" alt="...">
+            <img src="carruselagrovoltaica1.png" class="d-block w-100" alt="...">
           </div>
         </div>
         <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
