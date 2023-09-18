@@ -67,7 +67,7 @@
             <img class="tomato-img" src="TOMATO.png" alt="">
           </div>
         <div class="box-melon">
-            <img class="melon-img" src="c:\Users\marie\OneDrive\Pictures\LOGO ECORPOYECTO. tp 3-01.png" alt="">
+            <img class="melon-img" src="LOGO ECORPOYECTO. tp 3-01.png" alt="">
             
 
 
