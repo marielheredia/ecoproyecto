@@ -27,7 +27,7 @@
     </button>
     <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
       <div class="navbar-nav">
-      
+        <a class="nav-link active" aria-current="page" href="#">Home</a>
         <a class="nav-link" href="hidroponia.html">Hidroponia</a>
         <a class="nav-link" href="microalgas.html">Microalgas</a>
         <a class="nav-link" href="ecoturismo.html">Ecoturismo</a>
