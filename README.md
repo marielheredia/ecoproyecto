@@ -30,7 +30,7 @@
 
 
                 <li class="nav-item">
-                  <a class="nav-link" href="./hidroponia.html"> Hidroponia </a>
+                  <a class="nav-link" href="hidroponia.html"> Hidroponia </a>
                 </li>
 
                 <li class="nav-item">
@@ -55,16 +55,16 @@
 <section class="padre-grid"> <!--Agrego el grid del principio-->
 
         <div class="box-zapallo">
-            <img class="zapallo-img" src="c:\Users\marie\OneDrive\Desktop\con plata de zapallo-01.png" alt="">
+            <img class="zapallo-img" src="con plata de zapallo-01.png" alt="">
          </div>
         <div class="box-sustentable">
-            <img class="sustentable-img" src="c:\Users\marie\OneDrive\Desktop\sustentable.jpg" alt="">
+            <img class="sustentable-img" src="sustentable.jpg" alt="">
           </div>
         <div class="box-tomato">
-            <img class="tomato-img" src="c:\Users\marie\OneDrive\Desktop\TOMATO.png" alt="">
+            <img class="tomato-img" src="TOMATO.png" alt="">
           </div>
         <div class="box-melon">
-            <img class="melon-img" src="c:\Users\marie\OneDrive\Pictures\LOGO ECORPOYECTO. tp 3-01.png" alt="">
+            <img class="melon-img" src="LOGO ECORPOYECTO. tp 3-01.png" alt="">
             
 </section>
 
