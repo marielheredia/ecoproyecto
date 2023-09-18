@@ -34,14 +34,14 @@
                 </li>
 
                 <li class="nav-item">
-                  <a class="nav-link" href="./microalgas.html"> Microalgas </a>
+                  <a class="nav-link" href="microalgas.html"> Microalgas </a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="./ecoturismo.html"> Eco Turismo </a>
+                  <a class="nav-link" href="ecoturismo.html"> Eco Turismo </a>
                 </li>
 
                 <li class="nav-item">
-                  <a class="nav-link" href="./contactos.html"> Contacto </a>
+                  <a class="nav-link" href="contactos.html"> Contacto </a>
                 </li>  
                 <li class="nav-item">
                   <a class="nav-link" href="#"> Nosotras </a>
