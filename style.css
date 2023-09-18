@@ -1,0 +1,193 @@
+
+body{
+
+    background-color:antiquewhite
+   
+   }
+   h1{
+       text-align: center;
+   }
+   
+   h1 {
+       color: tomato
+   }
+   
+   h2{
+       text-align: center;
+   
+   }
+   h2 {
+       color:coral
+   }
+   
+   
+   
+   h3{
+       text-align: center; 
+       color:coral;
+         
+   }
+   h4 {
+       text-align: center;
+       color: darkgreen;
+       font-style: initial;
+       font-size:35px;
+   
+   }
+       
+   p {
+       color:darkgreen;
+       font-style: initial;
+       font-size: 18px;
+   
+   }
+   
+   
+   li {
+       text-align: left;
+       color:darkgreen;
+       
+   }
+   
+   
+   
+   ul {
+       text-align: center;
+   
+   }
+   
+   #fondo {
+           background-color:darkgreen;
+           color: aquamarine;
+           justify-content: center;
+           border-radius:10px;
+           text-align: center;
+   
+   
+          
+          
+         
+   }
+   
+   .article{
+       text-decoration-color: aquamarine;
+    
+   }
+   
+   #tit {
+       text-align: center;
+       color:darkgreen
+   }
+   
+   .los {
+   
+   
+       color:rgb(11, 184, 77);
+   
+   
+      
+   
+   }
+   
+   #img {
+       display:flex;
+       size: 400px
+       
+   
+   }
+   
+   
+   ul{
+       color:fuchsia
+   }
+   
+   .flex-container{
+       display: flex;
+       justify-content: center;
+       font-family:Verdana, Geneva, Tahoma, sans-serif;
+       font-size:25px;
+       color:blanchedalmond;
+       
+       
+      
+   
+   
+   }
+   .contenedor-imagen{
+       text-align: center;
+       margin: 10px;
+       padding: 10px;
+   
+   }
+   
+   .caja{
+       border-radius: 12px;
+       border-width: auto;
+   
+       border-top:solid 5px; color:darkolivegreen;
+       border-right:solid 5px; color: darkolivegreen;
+       border-bottom:solid 5px; color: darkolivegreen;
+       border-left: solid 5px; color:darkolivegreen;
+       background-color:rgb(255, 160, 105);
+   
+   }
+   
+   #home{
+       display: flex;
+       float: center;
+      
+         
+       }
+   
+   #media{
+       text-align: center;
+       font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+       margin: 0px;
+       padding: 0px;
+   }
+   #columna-izq{
+       margin: 0px;
+       padding: 0px;
+       width: 50%;
+       float:left;
+       background-color: aqua;
+       font-size: 15px;
+   
+   }
+   
+   #columna-der{
+       width: 50%;
+       float: right;
+       background-color: darksalmon;
+       font-size: 15px;
+   
+   }
+   *{
+       margin:0;
+       padding:0;
+   
+   }
+   
+   .padre-grid{
+       display: grid;
+       grid-template-columns: 50% 25% 25%;
+       grid-template-rows: 500px auto;
+       grid-template-areas: "zapallo sustentable tomato"
+       "melon sustentable tomato";
+     
+   }
+   .microalgas{
+       align-content: center;
+       
+   }
+   
+   .micro{
+       align-content: center;
+       height: 600px;
+       width: 400px;
+   }
+   .isla{
+           align-content: center;
+   
+   }
+   
