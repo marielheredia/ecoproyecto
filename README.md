@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 
 
@@ -318,7 +318,7 @@
    
    <script src="index.js"></script>
 
- </body>
+
 
     <footer>
       
@@ -328,5 +328,5 @@
               
     </footer>
 
-</html> 
+
 
