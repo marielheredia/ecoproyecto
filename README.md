@@ -19,27 +19,39 @@
     <body>
 
       <header> <!--Navegador en Bootstrap-->
-        <nav class="navbar navbar-expand-lg navbar-light bg-light">
-  <div class="container-fluid">
-    <a class="navbar-brand" href="ecoproyecto.html">Ecoproyecto</a>
-    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
-    </button>
-    <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-      <div class="navbar-nav">
-        <a class="nav-link active" aria-current="page" href="#">Home</a>
-        <a class="nav-link" href="hidroponia.html">Hidroponia</a>
-        <a class="nav-link" href="microalgas.html">Microalgas</a>
-        <a class="nav-link" href="ecoturismo.html">Ecoturismo</a>
-         <a class="nav-link" href="contactos.html">Contacto</a>
-           <a class="nav-link" href="#">Nosotras</a>
-        <a class="nav-link disabled">Disabled</a>
-       
-      </div>
-    </div>
-  </div>
-</nav>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+          <div class="container-fluid">
+            <a class="navbar-brand" href="ecoproyecto.html"> PROYECTO ECOLOGICO </a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+              <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+              <ul class= "navbar-nav">
+
+
+                <li class="nav-item">
+                  <a class="nav-link" href="./hidroponia.html"> Hidroponia </a>
+                </li>
+
+                <li class="nav-item">
+                  <a class="nav-link" href="./microalgas.html"> Microalgas </a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="./ecoturismo.html"> Eco Turismo </a>
+                </li>
+
+                <li class="nav-item">
+                  <a class="nav-link" href="./contactos.html"> Contacto </a>
+                </li>  
+                <li class="nav-item">
+                  <a class="nav-link" href="#"> Nosotras </a>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </nav>
       </header>
+  
 <main>
 <section class="padre-grid"> <!--Agrego el grid del principio-->
 
